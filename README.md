@@ -1,2 +1,2 @@
 # Sentiment-analysis
-Hey! This is a sentiment analysis tool which takes in texts and gives out a word art of the words used in text which are color coded according to the sentiment as well as gives a sentiment percentage of the said text with an option of being neutral. Feel free to give some suggestions to work on it.
+Hey! This is a sentiment analysis tool which takes in texts and gives out a word art of the words used in text which are color coded according to the sentiment as well as gives a sentiment percentage of the said text with an option of being neutral.You can use the Shakespeare dataset or the IMDB dataset to retrain the model. Feel free to drop any suggestions you might have that I can work on.
